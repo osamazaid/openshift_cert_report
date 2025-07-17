@@ -34,7 +34,7 @@ pip install openpyxl cryptography
 # Installation
 Clone the Repository (or download the script):
 ~~~
-git clone https://github.com/osamazaid/openshift_cert_report
+git clone https://github.com/osamazaid/openshift_cert_report.git
 cd openshift_cert_report
 ~~~
 
